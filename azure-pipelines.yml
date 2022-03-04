@@ -15,7 +15,7 @@ steps:
     ignoreCertificateChecks: true
     useProxy: 'none'
     strAuthType: 'clientToken'
-    strToken: 's.K7HALhg1uTdkOb1h8162moLu'
+    strToken: 's.M6SugT4uKZONzDMonEfEU8Hu'
     strKVEnginePath: 'secret'
     kvVersion: 'v2'
     strSecretPath: 'hello'
