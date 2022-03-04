@@ -18,6 +18,7 @@ steps:
     strToken: 's.K7HALhg1uTdkOb1h8162moLu'
     strKVEnginePath: 'secret'
     kvVersion: 'v2'
+    strSecretPath: 'hello'
     strPrefixType: 'custom'
     strVariablePrefix: 'app'
     replaceCR: false
