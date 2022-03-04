@@ -11,7 +11,7 @@ pool: Default
 steps:
 - task: VaultReadKV@4
   inputs:
-    strUrl: 'https://127.0.0.1:8200'
+    strUrl: 'http://127.0.0.1:8200'
     ignoreCertificateChecks: true
     useProxy: 'none'
     strAuthType: 'clientToken'
