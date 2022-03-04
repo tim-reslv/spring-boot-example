@@ -15,7 +15,7 @@ steps:
     ignoreCertificateChecks: true
     useProxy: 'none'
     strAuthType: 'clientToken'
-    strToken: 's.M6SugT4uKZONzDMonEfEU8Hu'
+    strToken: "$(vault_token)"
     strKVEnginePath: 'secret'
     kvVersion: 'v2'
     strSecretPath: 'hello'
