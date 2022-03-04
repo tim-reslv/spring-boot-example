@@ -16,7 +16,7 @@ steps:
     useProxy: 'none'
     strAuthType: 'clientToken'
     strToken: 's.M6SugT4uKZONzDMonEfEU8Hu'
-    strKVEnginePath: 'secret'
+    strKVEnginePath: 'hello'
     kvVersion: 'v1'
     strPrefixType: 'custom'
     strVariablePrefix: 'app'
