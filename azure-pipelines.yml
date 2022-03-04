@@ -9,7 +9,7 @@ trigger:
 pool: Default
 
 steps:
-- task: VaultReadKV@4
+- task: VaultReadKV@3
   inputs:
     strUrl: 'http://127.0.0.1:8200'
     ignoreCertificateChecks: true
